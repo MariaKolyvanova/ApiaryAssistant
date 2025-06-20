@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Apiary Assistant</string>
+    <string name="one">Главная</string>
+    <string name="two">AM</string>
+    <string name="three">Отчёты</string>
+    <string name="record">Запись</string>
+    <string name="to_start">НАЧАТЬ ЗАПИСЬ</string>
+    <string name="started">ЗАПИСЬ ИДЁТ</string>
+    <string name="pause">ПАУЗА</string>
+    <string name="completed">ЗАПИСЬ ЗАВЕРШЕНА</string>
+    <string name="to_pause">нажмите чтобы остановить</string>
+    <string name="resume">нажмите чтобы продолжить</string>
+    <string name="to_end">ЗАВЕРШИТЬ</string>
+    <string name="plus_one">+1</string>
+    <string name="guide">Инструкция</string>
+    <string name="download">Скачать</string>
+    <string name="delete">Удалить</string>
+    <string name="namePattern">Шаблон</string>
+    <string name="toPattern">Загрузить шаблон</string>
+
+    <string name="createReport">Создать новый отчёт</string>
+
+    <string name="report_name">Название отчёта</string>
+    <string name="to_report_name">Введите название отчёта</string>
+    <string name="number_row">Строка №</string>
+    <string name="my_report">Название</string>
+    <string name="column_name">Название столбца</string>
+    <string name="newReport">Создать новый отчёт</string>
+    <string name="or">или</string>
+    <string name="loadReport">Загрузить отчёт</string>
+    <string name="noReports">Отчёты не найдены</string>
+    <string name="toReturn">Продолжить</string>
+    <string name="nameGuide">Руководство пользования</string>
+    <string name="sheets">Страницы:</string>
+    <string name="GuideNewReport">Отчёт</string>
+    <string name="toAssistant">Запуск ассистента</string>
+    <string name="archive">Архив отчётов</string>
+
+    <string name="important">ДЛЯ РАБОТЫ С АССИСТЕНТОМ, НЕОБХОДИМО РАЗРЕШИТЬ ИСПОЛЬЗОВАНИЕ МИКРОФОНА</string>
+
+
+    <string name="howToCreate">Как создать новый отчёт? </string>
+    <string name="toHowToCreate">1. Откройте страницу <b>Отчёт</b>.
+                                \n2. Нажмите на кнопку <b>Создать новый отчёт</b>.
+                                \n3. Введите название отчёта.
+                                \n4. Нажмите <b>Загрузить шаблон</b> и выберите шаблон или оставьте поле пустым, если хотите использовать шаблон по умолчанию.
+                                \n5. Нажмите на кнопку <b>"Создать новый отчёт"</b>.
+    </string>
+
+    <string name="howToLoad">Как открыть отчёт? </string>
+    <string name="toHowToLoad">1. Откройте страницу <b>Отчёт</b> и нажмите на кнопку <b>Загрузить отчёт</b>.
+                                \n2. Выебрите необходимый отчёт, нажав на кнопку <b>Продолжить</b>.
+                                \n\n Или откройте страницу <b>Архив отчётов</b> и выполните пункт 2.
+    </string>
+
+    <string name="howCorrect">Как отредактировать отчёт? </string>
+    <string name="toHowCorrect">1. Откройте страницу <b>Ассистент</b> и нажмите на кнопку для начала записи.
+                                \n2. Чтобы поставить на паузу или продолжить, нажмите еще раз на кнопку.
+                                \n3. Для завершения записи нажмите на кнопку <b>Завершить</b>.
+                                \n4. Откройте страницу <b>Отчёт</b>, чтобы отредактировать необходимую информацию.
+                                \n5. Передвигайтесь по строкам отчёта с помощью стрелок.
+                                \n6. Нажмите <b>Сохранить</b>, чтобы сохранить отредактированную информацию.
+    </string>
+
+    <string name="howCreatePattern"> Как должен выглядеть шаблон? </string>
+    <string name="toHowCreatePattern">1. Шаблон должен быть в формате <b>xlsx</b> - таблица Excel.
+                                    \n2. На первой странице должна быть заполнена первая строка, которая содержит название вводимых полей.
+    </string>
+
+    <string name="save">Сохранить</string>
+    <string name="textNoReports">ВЫБЕРИТЕ ОТЧЁТ</string>
+    <string name="hasBeenCreated">Отчёт с таким названием\n пасеки уже создан</string>
+    <string name="permission">В настройках разрешите использование микрофона и перезагрузите приложение</string>
+    <string name="ifPattern">Если хотите использовать шаблон по умолчанию, оставьте поле <b>Шаблон</b> пустым</string>
+    <string name="wait">Подождите</string>
+
+
+</resources>
+
